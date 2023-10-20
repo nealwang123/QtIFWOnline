@@ -3,30 +3,6 @@
  <ApplicationVersion>1.0.0</ApplicationVersion>
  <Checksum>true</Checksum>
  <PackageUpdate>
-  <Name>B</Name>
-  <DisplayName>B</DisplayName>
-  <Description>Example component B</Description>
-  <Version>1.0.0-1</Version>
-  <ReleaseDate>2015-01-01</ReleaseDate>
-  <Default>true</Default>
-  <UpdateFile CompressedSize="215" OS="Any" UncompressedSize="74"/>
-  <DownloadableArchives>content.7z</DownloadableArchives>
-  <SHA1>41f65db5f606a4ade819e5acab61a043dbb83fcf</SHA1>
- </PackageUpdate>
- <SHA1>3b020932f4c5d1669b860ad8176eb3a061420235</SHA1>
- <MetadataName>2023-10-20-1603_meta.7z</MetadataName>
- <PackageUpdate>
-  <Name>A</Name>
-  <DisplayName>A</DisplayName>
-  <Description>Example component A</Description>
-  <Version>1.0.3-1</Version>
-  <ReleaseDate>2015-01-01</ReleaseDate>
-  <Default>true</Default>
-  <UpdateFile CompressedSize="229" OS="Any" UncompressedSize="89"/>
-  <DownloadableArchives>content.7z</DownloadableArchives>
-  <SHA1>505228e09ba88cc1fe4594552dd04f76e5a9160a</SHA1>
- </PackageUpdate>
- <PackageUpdate>
   <Name>UDSTools</Name>
   <DisplayName>UDS_Updata</DisplayName>
   <Description>The Second ifw installer.</Description>
@@ -34,9 +10,9 @@
   <ReleaseDate>2023-10-19</ReleaseDate>
   <Default>true</Default>
   <Script>installscript.qs</Script>
-  <UpdateFile CompressedSize="22509623" OS="Any" UncompressedSize="88500390"/>
+  <UpdateFile CompressedSize="22509609" OS="Any" UncompressedSize="88500390"/>
   <DownloadableArchives>canfd驱动.7z,iconengines.7z,imageformats.7z,iniFile.7z,kerneldlls.7z,log.7z,platforms.7z,styles.7z,translations.7z,content.7z</DownloadableArchives>
-  <SHA1>7dca2855c260f643fdb0597c61e0c6ffa62df493</SHA1>
+  <SHA1>528d917d73841c958dd577a36e8cae2069b80550</SHA1>
  </PackageUpdate>
  <PackageUpdate>
   <Name>VCRuntime</Name>
@@ -45,8 +21,10 @@
   <Version>1.0.0</Version>
   <ReleaseDate>2023-10-19</ReleaseDate>
   <Default>true</Default>
-  <UpdateFile CompressedSize="18624907" OS="Any" UncompressedSize="20308364"/>
+  <UpdateFile CompressedSize="18624910" OS="Any" UncompressedSize="20308364"/>
   <DownloadableArchives>VCRunTime.7z</DownloadableArchives>
-  <SHA1>4a9c66fac90edbfb63de1d7437a1dd2729616007</SHA1>
+  <SHA1>032c69ca798be6fb8290a3542537a76ac6e0a1c6</SHA1>
  </PackageUpdate>
+ <SHA1>e3632f60b756f9fa88ab9d087a01fa26b22957ee</SHA1>
+ <MetadataName>2023-10-20-1651_meta.7z</MetadataName>
 </Updates>
