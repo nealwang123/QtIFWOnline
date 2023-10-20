@@ -9,12 +9,12 @@
   <Version>1.0.0-1</Version>
   <ReleaseDate>2015-01-01</ReleaseDate>
   <Default>true</Default>
-  <UpdateFile CompressedSize="215" UncompressedSize="74" OS="Any"/>
+  <UpdateFile OS="Any" CompressedSize="215" UncompressedSize="74"/>
   <DownloadableArchives>content.7z</DownloadableArchives>
   <SHA1>41f65db5f606a4ade819e5acab61a043dbb83fcf</SHA1>
  </PackageUpdate>
- <SHA1>4b1eb6d77aefce30a6d901ee5d6d6dfae09c61d1</SHA1>
- <MetadataName>2023-10-20-1528_meta.7z</MetadataName>
+ <SHA1>ac8b167d0d52d3d713cb9ed2726be25e9c207567</SHA1>
+ <MetadataName>2023-10-20-1535_meta.7z</MetadataName>
  <PackageUpdate>
   <Name>A</Name>
   <DisplayName>A</DisplayName>
@@ -22,7 +22,7 @@
   <Version>1.0.3-1</Version>
   <ReleaseDate>2015-01-01</ReleaseDate>
   <Default>true</Default>
-  <UpdateFile CompressedSize="229" UncompressedSize="89" OS="Any"/>
+  <UpdateFile OS="Any" CompressedSize="229" UncompressedSize="89"/>
   <DownloadableArchives>content.7z</DownloadableArchives>
   <SHA1>505228e09ba88cc1fe4594552dd04f76e5a9160a</SHA1>
  </PackageUpdate>
@@ -30,12 +30,12 @@
   <Name>UDSTools</Name>
   <DisplayName>UDS_Updata</DisplayName>
   <Description>The Second ifw installer.</Description>
-  <Version>3.0.0</Version>
+  <Version>3.1.0</Version>
   <ReleaseDate>2023-10-19</ReleaseDate>
   <Default>true</Default>
   <Script>installscript.qs</Script>
-  <UpdateFile CompressedSize="58261446" UncompressedSize="127675762" OS="Any"/>
+  <UpdateFile OS="Any" CompressedSize="41134510" UncompressedSize="108808754"/>
   <DownloadableArchives>canfd驱动.7z,iconengines.7z,imageformats.7z,iniFile.7z,kerneldlls.7z,log.7z,platforms.7z,styles.7z,translations.7z,VCRunTime.7z,content.7z</DownloadableArchives>
-  <SHA1>f40fc1fcd9225a327faaba951911d9f493a45f34</SHA1>
+  <SHA1>c6795e4a41e9c07419d739f1e65d4579a14d57d1</SHA1>
  </PackageUpdate>
 </Updates>
